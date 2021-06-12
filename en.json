@@ -11,8 +11,8 @@
   "status": "Állapot",
   "statusPage": "Státusz oldal",
 
-  "isDown": "Problémát tapasztaltunk",
-  "isDisrupted": "Problémát tapasztaltunk",
+  "isDown": "Problémát tapasztalunk a rendszer működésében",
+  "isDisrupted": "Problémát tapasztalunk a rendszer működésében",
   "isNotice": "Karbantartás várható",
   "isOk": "Minden tökéletesen működik!",
 
@@ -36,8 +36,8 @@
   "started": "Kezdődött",
   "scheduledFor": "Időzitve",
   "updated": "Frissítve",
-  "resolvedAfter": "Megoldódott miután",
-  "inUnderAMinute": "egy perc alatt",
+  "resolvedAfter": "Időtartam:",
+  "inUnderAMinute": "kevesebb mint 1 perc",
   "ofDowntime": "Leállási idő",
   "notResolved": "Eddig megoldatlan",
   "affected": "Érintett",
@@ -53,7 +53,7 @@
   "next": "Következő",
   
   "goBack": "Vissza a",
-  "poweredBy": "Üzemelteti",
+  "poweredBy": "By",
   "showIncidentHistory": "Előzmények megtekintése",
   "showCurrent": "Jelenlegi állapot megtekintése",
 
@@ -112,7 +112,7 @@
   "enterPhoneError": "Kérlek adj meg egy telefonszámot.",
   "invalidEmailError": "Kérlek adj meg egy valid email címet.",
 
-  "resolved": "Sikeresen megoldva",
+  "resolved": "Megoldva",
   "investigating": "Vizsgáljuk",
   "identified": "Javítjuk",
   "monitoring": "Ellenőrizzük",
