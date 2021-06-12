@@ -18,9 +18,9 @@
 
   "operational": "Működik",
   "underMaintenance": "Karbantartás",
-  "degradedPerformance": "Degraded performance",
-  "partialOutage": "Részleges fennakadás",
-  "minorOutage": "Jelentősebb fennakadás",
+  "degradedPerformance": "Performancia probléma",
+  "partialOutage": "Részleges probléma",
+  "minorOutage": "Jelentősebb probléma",
   "majorOutage": "Kritikus hiba",
 
   "systemMetrics": "Statisztika",
@@ -34,7 +34,7 @@
   "maintenanceDetails" : "Karbantartás részletei",
 
   "started": "Kezdődött",
-  "scheduledFor": "Idozitve5",
+  "scheduledFor": "Időzitve",
   "updated": "Frissítve",
   "resolvedAfter": "Megoldódott miután",
   "inUnderAMinute": "egy perc alatt",
@@ -57,10 +57,10 @@
   "showIncidentHistory": "Előzmények megtekintése",
   "showCurrent": "Jelenlegi állapot megtekintése",
 
-  "getUpdates": "Get updates",
+  "getUpdates": "Értesítést kérek",
   "getUpdatesBy": "Get updates by",
-  "toAllComponents": "Get all status updates",
-  "toCertainComponents": "Only specific components",
+  "toAllComponents": "Mindenről",
+  "toCertainComponents": "Csak bizonyos szolgáltatásokról",
   "subscribe": "Fe",
   "working": "Folyamatban..",
   "subscribed": "Sikeresen feliratkoztál az értesítésekre",
@@ -134,8 +134,8 @@
 
   "statusUpdates": "státusz frissítés",
   "hasANewIncident": "új incidens",
-  "openStatusPage": "Kantin státusz megnyitása",
-  "youreReceivingThisEmailBecauseYouSubscribed": "Azért kaptad ezt az email, mert feliratkoztál a Kantin Státusz értesítéseire.",
+  "openStatusPage": "Státusz megnyitása",
+  "youreReceivingThisEmailBecauseYouSubscribed": "Azért kaptad ezt az email, mert feliratkoztál az értesítésekre.",
   "pleaseConfirmYourSubscription": "Kérlek erősítsd meg fleiratkozásodat",
   "incidentUpdates": "incidesz frissítés",
   "youCan": "Tudsz",
