@@ -1,5 +1,5 @@
 {
-  "languageCode": "hu",
+  "languageCode": "hu-hu",
   "languageName": "Hungarian",
   "langageNameShort": "HU",
   "dateLocale": "hu",
@@ -11,10 +11,10 @@
   "status": "Állapot",
   "statusPage": "Státusz oldal",
 
-  "isDown": "Problémát tapasztaltunk",
+  "isDown": "A rendszer működése leállt",
   "isDisrupted": "Problémát tapasztaltunk",
   "isNotice": "Karbantartás várható",
-  "isOk": "Minden tökéletesen működik!",
+  "isOk": "Minden rendszer működik",
 
   "operational": "Működik",
   "underMaintenance": "Karbantartás",
@@ -113,9 +113,9 @@
   "invalidEmailError": "Kérlek adj meg egy valid email címet.",
 
   "resolved": "Sikeresen megoldva",
-  "investigating": "Vizsgáljuk",
-  "identified": "Javítjuk",
-  "monitoring": "Monitoring",
+  "investigating": "Vizsgáljuk a problémát",
+  "identified": "Probléma azonosítva",
+  "monitoring": "Monitorozás",
 
   "notstartedyet": "Tervezett",
   "inprogress": "Folyamatban",
@@ -123,7 +123,7 @@
 
   "today": "Ma",
   "daysAgo": "napja",
-  "uptime": "uptime",
+  "uptime": "Elérhetőség",
   "90DaysAgo": "90 napja",
   "48DaysAgo": "48 napja",
   "38DaysAgo": "38 napja",
