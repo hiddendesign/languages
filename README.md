@@ -1,20 +1,27 @@
-# 🌍🌎🌏 Instatus languages
+# Instatus languages 🌍🌎🌏
+
 
 JSON files for the languages supported by Instatus.
 
-If you'd like to improve your language or add a new one, please create a pull request 🚀
+To improve your language or add support for a new one, please create a pull request 🚀
+
+If you're not familiar with Git, please send your translation of [en.json](https://github.com/instatushq/languages/blob/master/en.json) to [ali@instatus.com](mailto:ali@instatus.com)
 
 Supported languages:
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English
 - 🇭🇺 Hungarian
+- 🇸🇦 Arabic [AhmadShkour71](https://github.com/AhmadShkour71)
+- 🇨🇿 Czech [Shin Megami Tensei](https://github.com/MegamiShin)
 - 🇨🇳 Chinese (Simplified) [Chihao Huang](https://github.com/coder-bts) & [CCKNBC](https://github.com/CCKNBC)
-- 🇨🇳 Chinese (Traditional) [Mr-Sheep](https://github.com/Mr-Sheep)
+- 🇨🇳 Chinese (Traditional) [Mr-Sheep](https://github.com/Mr-Sheep) & [CCKNBC](https://github.com/CCKNBC)
 - 🇩🇰 Danish [Dan Storm](https://github.com/Repox)
 - 🇳🇱 Dutch [Ezra van den Broek](https://twitter.com/ezraistaken)
 - 🇫🇮 Finnish [GhostSlayer](https://github.com/GhostSlayer)
 - 🇫🇷 French [Joshua Tabakhoff](https://twitter.com/joshtab_)
 - 🇩🇪 German [An](https://twitter.com/AnTheMaker)
+- 🇮🇩 Indonesian [Frans Allen](https://github.com/fransallen)
 - 🇮🇹 Italian [UffTec](https://github.com/UffTec)
+- 🇯🇵 Japanese [kr-tukimi](https://github.com/kr-tukimi) & [AGAMES](https://twitter.com/awh_jp)
 - 🇳🇴 Norwegian [Eirik Lie](https://github.com/eiriklie)
 - 🇵🇱 Polski [Artur Kociszewski](https://artuu.pl)
 - 🇵🇹 Portuguese [João Drummond](https://github.com/jlcd)
@@ -22,6 +29,18 @@ Supported languages:
 - 🇷🇸 Serbian [Aleksandar Vasilić](https://github.com/net-tech)
 - 🇷🇺 Russian [Vova Pilipchatin](https://twitter.com/VPilipchatin)
 - 🇸🇮 Slovenian [Matej Žerovnik](https://github.com/matejzero)
+- 🇷🇴 Romanian [marwain91](https://github.com/marwain91)
 - 🇪🇸 Spanish [Agusti](https://github.com/agustif) & [Cristiam](https://github.com/cristiammercado)
+- 🇸🇪 Swedish [Mattias Skog](https://github.com/matskog)
 - 🇹🇷 Turkish
+- 🇺🇦 Ukrainian [CTO](https://github.com/svc-git)
 - 🇻🇳 Vietnamese [Ngô Quý](https://github.com/JustHmmmm)
+
+Quick Translate Tool by [Steven John](https://github.com/StevenJohnss)
+
+To use it:
+
+1. Get [Google Cloud translate API key](https://console.developers.google.com/apis/credentials) 
+2. Make sure you have your Google Translation API enabled for your project
+3. Change `.env.examle` to `.env` and enter the obtained API key in `APIKEY`
+4. Run: `yarn && yarn start` 🚀

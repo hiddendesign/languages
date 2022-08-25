@@ -3,36 +3,28 @@
   "languageName": "Hungarian",
   "langageNameShort": "HU",
   "dateLocale": "hu",
-
   "or": "vagy",
   "to": "",
   "at": "",
-
   "status": "Állapot",
   "statusPage": "Státusz oldal",
-
   "isDown": "Problémát tapasztalunk a rendszer működésében",
   "isDisrupted": "Problémát tapasztalunk a rendszer működésében",
   "isNotice": "Karbantartás alatt",
   "isOk": "Minden tökéletesen működik!",
-
   "operational": "Működik",
   "underMaintenance": "Karbantartás",
   "degradedPerformance": "Performancia probléma",
   "partialOutage": "Részleges probléma",
   "minorOutage": "Jelentősebb probléma",
   "majorOutage": "Kritikus hiba",
-
   "systemMetrics": "Statisztika",
-
   "incidents": "Korábbi incidensek",
   "incidentHistory": "Incidens előzmények",
   "incidentDetails": "Incidens részletei",
-
   "maintenances" : "Karbantartások",
   "maintenanceHistory" : "Karbantartási előzmények",
   "maintenanceDetails" : "Karbantartás részletei",
-
   "started": "Kezdődött",
   "scheduledFor": "Időzitve",
   "updated": "Frissítve",
@@ -42,21 +34,17 @@
   "notResolved": "Eddig megoldatlan",
   "affected": "Érintett",
   "affects": "Hatás",
-
   "noDowntime": "Nincs leállás jelentve",
   "didntStart": "Rendszer még nem indult el",
   "noIncidents": "Nincs incidens jelentve",
   "noIncidentsMonth": "A hónapban nem jelentettek incidenst",
   "noIncidentsWeek": "A héten nem jelentettek incidenst",
-
   "prev": "Előző",
   "next": "Következő",
-  
   "goBack": "Vissza a",
   "poweredBy": "By",
   "showIncidentHistory": "Előzmények megtekintése",
   "showCurrent": "Jelenlegi állapot megtekintése",
-
   "getUpdates": "Értesítést kérek",
   "getUpdatesBy": "Get updates by",
   "toAllComponents": "Mindenről",
@@ -85,6 +73,16 @@
   "discord": "Discord",
   "getUpdatesDiscordShort": "Discord-on értesítsetek",
   "getUpdatesDiscordLong": "Értesítéseket kaphatsz a csatornádra",
+
+  "microsoftTeams": "Microsoft Teams",
+  "getUpdatesMicrosoftTeamsShort": "Get updates in your channel",
+  "getUpdatesMicrosoftTeamsLong": "Get updates in your channel",
+  "learnMicrosoftTeamsWebhook": "Learn how to add a webhook to your Microsoft Teams channel",
+  "microsoftTeamsSend": "When we update our status, we'll send you the updates to your Microsoft Teams channel.",
+
+  "language": "Language",
+  "darkMode": "Dark mode",
+  "lightMode": "Light mode",
 
   "reportAnIssue": "Probléma jelentése",
   "copied": "Másolva",
@@ -121,10 +119,16 @@
   "inprogress": "Folyamatban",
   "completed": "Kész",
 
+  "update": "Update",
+  "verifying": "Verifying",
+  "scheduled": "Scheduled",
+
   "today": "Ma",
   "daysAgo": "napja",
   "uptime": "uptime",
+  "numDaysAgo": "{{num}} napja",
   "90DaysAgo": "90 napja",
+  "54DaysAgo": "54 napja",
   "48DaysAgo": "48 napja",
   "38DaysAgo": "38 napja",
 
@@ -140,10 +144,39 @@
   "incidentUpdates": "incidesz frissítés",
   "youCan": "Tudsz",
   "unsubscribe": "Leiratkozás az értesítésekről",
+  "unsubscribeNotice": "Reminder: you can unsubscribe from alerts like these at",
   "here": "itt",
   "checkItOut": "Check it out",
   "useThisLink": "Használd ezt a linket",
   "hasUpdatedTheirIncident": "frissítette az incidens részleteit",
   "scheduledANewMaintenance": "beállított egy új karbantartási időszakot",
-  "updatedTheirMaintenance": "frissítette a karbantartás részleteit"
+  "updatedTheirMaintenance": "frissítette a karbantartás részleteit",
+  "maintenanceNotStarted": "We are planning for a scheduled maintenance during that time",
+  "maintenanceInProgress": "Maintenance is now in progress",
+  "maintenanceComplete": "Maintenance has completed successfully",
+  "viewMaintenance": "View maintenance",
+  "viewincident": "View incident",
+  "impact": "Impact",
+  "maintenanceWillBeginSoon": "Maintenance will begin in {{minutes}} minutes",
+  "postmortem": "Postmortem",
+  "recentNotices": "Recent notices",
+  "showNoticeHistory": "Show notice history",
+  "noticeHistory": "Notice history",
+  "noNotices": "No notices reported",
+  "noNoticesDays": "No notices reported for the past {{days}} days",
+  "noNoticesMonth": "No notices reported this month",
+  "starts": "Starts",
+  "duration": "Duration",
+  "viewLatestUpdates": "View latest updates",
+  "lastUpdated": "Last updated {{time}} ago",
+  "year": "year",
+  "years": "years",
+  "month": "month",
+  "months": "months",
+  "day": "day",
+  "days": "days",
+  "hour": "hour",
+  "hours": "hours",
+  "minute": "minute",
+  "minutes": "minutes"
 }
